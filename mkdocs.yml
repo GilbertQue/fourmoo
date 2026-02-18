@@ -20,3 +20,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Microsoft Fabric:
+    - Spark vs Python vs Warehouse: spark-vs-python-vs-warehouse-microsoft-fabric.md
